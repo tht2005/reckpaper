@@ -244,7 +244,7 @@ body {
 .result-show {
     display: flex;
     flex-direction: column;
-    transition: transform 1.5s cubic-bezier(0,0,.58,1);
+    transition: transform 0.7s cubic-bezier(.87,.06,.72,1.01);
 }
 .result-show:nth-child(2) .piece {
     visibility: hidden;
